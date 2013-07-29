@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+.project
+.classpath
+.settings/
+.loadpath
+target/
+target/*
+
+.DS_Store
