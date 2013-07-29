@@ -1,7 +1,7 @@
 Lucene MoreLikeThis example - Searching similar document
 ============
 
-Code example of MoreLikeThis using Java and Lucene 4.3
+Code example of MoreLikeThis using Java and Lucene 4.2
 
 Install
 ---------
